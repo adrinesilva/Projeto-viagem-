@@ -125,3 +125,48 @@ div.form-busca{
   margin: 50px;
   padding: 50px;
 }
+
+.card {
+    width: 250px;
+    padding: 20px;
+
+
+}
+
+.card img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.card h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.card p {
+    color: #555;
+}
+.caixa-why{
+  display: flex;
+  flex-direction: row;
+  margin: 150px;
+}
+
+.texto-paragrafo {
+  margin: 115px;
+  color: darkslateblue;
+}
+  
+
+  .caixa-wyy{
+     display: flex;
+  flex-direction: row;
+  margin: 150px;
+  justify-content: space-evenly;
+  }
+
+ 
+.tamanho-img{
+  height: 150px;
+}
